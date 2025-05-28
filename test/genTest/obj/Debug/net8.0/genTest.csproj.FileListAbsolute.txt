@@ -1,0 +1,14 @@
+C:\Users\ignat\source\repos\test\genTest\bin\Debug\net8.0\genTest.exe
+C:\Users\ignat\source\repos\test\genTest\bin\Debug\net8.0\genTest.deps.json
+C:\Users\ignat\source\repos\test\genTest\bin\Debug\net8.0\genTest.runtimeconfig.json
+C:\Users\ignat\source\repos\test\genTest\bin\Debug\net8.0\genTest.dll
+C:\Users\ignat\source\repos\test\genTest\bin\Debug\net8.0\genTest.pdb
+C:\Users\ignat\source\repos\test\genTest\obj\Debug\net8.0\genTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignat\source\repos\test\genTest\obj\Debug\net8.0\genTest.AssemblyInfoInputs.cache
+C:\Users\ignat\source\repos\test\genTest\obj\Debug\net8.0\genTest.AssemblyInfo.cs
+C:\Users\ignat\source\repos\test\genTest\obj\Debug\net8.0\genTest.csproj.CoreCompileInputs.cache
+C:\Users\ignat\source\repos\test\genTest\obj\Debug\net8.0\genTest.dll
+C:\Users\ignat\source\repos\test\genTest\obj\Debug\net8.0\refint\genTest.dll
+C:\Users\ignat\source\repos\test\genTest\obj\Debug\net8.0\genTest.pdb
+C:\Users\ignat\source\repos\test\genTest\obj\Debug\net8.0\genTest.genruntimeconfig.cache
+C:\Users\ignat\source\repos\test\genTest\obj\Debug\net8.0\ref\genTest.dll
